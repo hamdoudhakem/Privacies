@@ -2,7 +2,7 @@
 
 Welcome To the Soldier Runner Game for Android!  
 
-This is an open source Android app developed by Me. the app is also available on Google Play.    
+This is an Android app developed by Me. the app is also available on Google Play.    
 
 As an Android User myself I take pravicy matters very seriously.I know how irritating it is when an app is collecting your data behind your back.  
   
